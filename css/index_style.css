@@ -44,10 +44,10 @@ body {
 .banner {
 	width: 100%;
 	display: block;
+	overflow: auto;
 }
 
 .banner > .banner-image {
 	width: 100%;
 	display: block;
-
 }
