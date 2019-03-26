@@ -2,6 +2,7 @@ body {
 	margin: 0;
 	padding: 0;
 	font-family: 'Arial', serif;
+	background-color: #ffffff
 }
 
 .nav {
@@ -9,7 +10,7 @@ body {
 	color: #000000;
 	list-style: none;
 	text-align: center;
-	padding: 20px 180px 20px 180px;
+	padding: 20px 200px 20px 180px;
 	margin: auto;
 }
 
@@ -17,7 +18,7 @@ body {
 	display: inline-block;
 	padding: 0 30px 0 30px;
 	font-size: 12px;
-        font-style: bold;
+    font-style: bold;
 }
 
 .nav > li > a {
