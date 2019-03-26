@@ -6,8 +6,8 @@ body {
 }
 
 .nav {
-	background-color: #ffff;
-	color: #000000;
+	background-color: #2F3241;
+	color: #2F3241;
 	list-style: none;
 	text-align: center;
 	padding: 20px 180px 20px 20px;
@@ -23,31 +23,24 @@ body {
 
 .nav > li > a {
 	text-decoration: none;
-	color: #000000;
+	color: #6798a2;
 }
 
 .nav > li > a:hover {
-	color: #c1c1c1c1;
+	color: #9feaf9;
 }
 
 .logo {
 	color: #ffffff;
 	float: left;
-	font-weight: bold;
-	background-color: #ffffff;
-	width:80px;
-	height: 80px;
-	padding: 5px;
-	border: 1px solid #000000;
-	z-index: 2;
+	padding-left: 25px;
+	font-size: 24px;
 }
 
 .logo > a {
 	text-decoration: none;
-	color: #000000;
-	z-index: 3;
+	color: #6798a2;
 }
-
 
 .banner {
 	width: 100%;
@@ -60,30 +53,9 @@ body {
 	display: block;
 }
 
-.logo > a > .letterH {
-	font-size: 55px;
-	float: left;
-	text-align: center;
-	vertical-align: middle;
-	padding: 10 0 0 18;
-	text-shadow: 8px 1px 6px #c2c2c2;
-	z-index: 4;
-}
 
-.logo > a > .letterI {
-	font-size: 15px;
-	float: left;
-	vertical-align: middle;
-	font-family: 'Courier New', serif;
-	padding: 10 0 0 0;
-	text-shadow: 4px 1px 6px black;
-	z-index: 5;
-
-}
-
-.spacer {
+/*.spacer {
 	color: #000000;
-	height: 1px;
+	height: 100px;
 	background-color: black;
-	z-index: 1;
-}
+}*/
